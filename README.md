@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a hands-on DevOps and Fullstack Engineer based in Nairobi, Kenya, currently deep in the process of building real production-grade systems from the ground up.
 
@@ -12,7 +12,7 @@ I don't just read documentation. I spin up infrastructure, watch it fail, debug 
 
 ---
 
-## ⚙️ What I'm Working With
+## What I'm Working With
 
 **DevOps & Cloud**
 
@@ -37,11 +37,11 @@ I don't just read documentation. I spin up infrastructure, watch it fail, debug 
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 Right now I'm in an active, documented DevOps learning sprint building each layer of a production pipeline from scratch:
 
-- 🔧 **CI/CD Pipelines** — Jenkins multi-stage pipelines that build, test, package, and deploy automatically
+- 🔗 **CI/CD Pipelines** — Jenkins multi-stage pipelines that build, test, package, and deploy automatically
 - 🐳 **Containerization** — Dockerizing applications and pushing production-ready images to Docker Hub
 - ☁️ **Cloud Infrastructure** — Deploying highly available systems on AWS (EC2, EBS, VPC) 
 - 🏗️ **Infrastructure as Code** — Provisioning and managing cloud infrastructure with Terraform for consistent, version-controlled environments
@@ -53,15 +53,15 @@ Every project is an end-to-end build not just the happy path.
 
 ## 🏗️ Highlighted Projects
 
-### 🐘 Highly Available PostgreSQL on AWS (No RDS)
+### Highly Available PostgreSQL on AWS (No RDS)
 > Built a resilient PostgreSQL deployment across **3 AWS Availability Zones** using Docker, EC2, and EBS volumes with optimized IOPS, automated snapshots, and a fully secured custom VPC.
-> https://github.com/Kate-mwaura/multi-az-postgresql-deployment.git
+> 👉 [View Project](https://github.com/Kate-mwaura/multi-az-postgresql-deployment)
 > 
 > *Because understanding the foundations matters more than using the shortcut.*
 
 ---
 
-### 🕐 Digital Clock Portfolio
+### Digital Clock Portfolio
 > A clean, responsive portfolio site featuring a live digital clock built with vanilla **HTML, CSS, and JavaScript**.  
 > Deployed and hosted on **Netlify**.
 >
@@ -69,7 +69,7 @@ Every project is an end-to-end build not just the happy path.
 
 ---
 
-### 🌐 Live Weather App
+### Live Weather App
 > A responsive JavaScript app pulling real-time data from the OpenWeatherMap API.  
 > Built with clean HTML5/CSS3 because frontend fundamentals still matter. 
 >
@@ -83,14 +83,7 @@ I write about what I'm building on **Medium** breaking down the decisions, the f
 
 If you're learning DevOps or cloud engineering, you might find it useful.
 
-👉 [Read my articles on Medium](#) *https://medium.com/@katemwaura44*
-
----
-
-## 📊 GitHub Stats
-
-![Catherine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kate-mwaura&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kate-mwaura&layout=compact&theme=tokyonight&hide_border=true)
+👉 [Read my articles on Medium](https://medium.com/@katemwaura44)
 
 ---
 
@@ -105,4 +98,4 @@ I'm always open to collaboration, feedback, and conversations about building bet
 
 ---
 
-*Currently learning in public. Every commit is a step forward.* 🌱
+*Currently learning in public. Every commit is a step forward.* 
